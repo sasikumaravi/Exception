@@ -22,5 +22,6 @@ public class Excetion1 {
 		System.out.println(a*b);
 		
 		System.out.println("World");
+		System.out.println("BMW");
 	}
 }

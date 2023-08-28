@@ -23,7 +23,7 @@ public class MultiTasking {
 		try {
 		System.out.println(a1/a2);}
 		catch(Exception b) {
-			System.out.println("Anything divided by 0 is infinity");
+			System.out.println("by 0 is infinity");
 		}
 		String numberPlate="Tn31";
 		
