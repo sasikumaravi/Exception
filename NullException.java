@@ -8,9 +8,9 @@ public class NullException {
 		try {
 		System.out.println(s.toUpperCase());
 		}
-		catch(NullPointerException a) {
-			System.out.println("value is null");
-		}
+//		catch(NullPointerException a) {
+//			System.out.println("value is null bro");
+//		}
 		finally {
 			System.out.println("This is an important message..........");
 		}

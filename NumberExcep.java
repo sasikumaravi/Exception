@@ -10,7 +10,7 @@ public class NumberExcep {
 			System.out.println(b);
 		}
 		catch(NumberFormatException r) {
-			r.printStackTrace();
+		//	r.printStackTrace();
 			System.out.println("Can't store String in integer");
 		}
 		

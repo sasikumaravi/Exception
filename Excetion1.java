@@ -6,10 +6,13 @@ public class Excetion1 {
 		int a=18;
 		int b = 23;
 		int c=0;
-		
+		String name="";
 		System.out.println(a+b);
+		System.out.println("Thala Sk...");
 		try {
 			System.out.println(a/c);
+			System.out.println(name.toUpperCase());
+			//System.out.println(b/c);
 		}
 		catch(Exception e){
 //		System.out.println(e);
